@@ -1,6 +1,3 @@
-# Todo_Rest_CRUD_Application_JQuery_FetchAPI
-Make sure to change into directory and run "Npm install" to download modules
+# Complete RESTful Todos API 
+### Built with Node, Express, and Mongo
 
-heroku link:
-
-https://blooming-woodland-29080.herokuapp.com/

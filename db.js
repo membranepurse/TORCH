@@ -1,9 +1,11 @@
 const MongoClient = require("mongodb").MongoClient;
 const ObjectID = require('mongodb').ObjectID;
 // name of our database
-const dbname = "torch";
+const dbname = "dash";
 // location of where our mongoDB database is located
-const url = "mongodb+srv://sbrown:vikings1@torch-zxrgr.mongodb.net/test?retryWrites=true";
+const url = "mongodb+srv://sbrown:vikings1@dash-a6g9d.mongodb.net/test?retryWrites=true";
+
+
 // Options for mongoDB
 const mongoOptions = {useNewUrlParser : true};
 
